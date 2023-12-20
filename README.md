@@ -28,7 +28,7 @@ Thanks to the Obsidian community for helping with development ❤️
    git clone https://github.com/zabojeb/s3-for-all.git
    ```
 
-2. Move it to your vault's .obsidian/plugins folder
+2. Move it to your vault's `.obsidian/plugins` folder
 
 3. Activate plugin in the settings
 
@@ -40,13 +40,24 @@ There is **two** ways to use the plugin:
 
 2. Using a ribbon button - click the upload button in the ribbon
 
+## To-Do List
+
+- Indication for the objects uploaded to the cloud.
+   
+- Function to synchronize all notes/folders in the selected location with the cloud
+   
+- Additional parameters for uploading to the cloud - e.g. file name
+   
+- Your feature!
+
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository, make your changes, and submit a pull requests 🤗
 
-Especially PRs for adding new features from **To-Do-List** like a folder uploading!
+Especially PRs for adding new features from **To-Do List** like a objects indication  :)
 
-Please report *all* issues that you see in the plugin!
+> [!Note]
+> Please, report **all** issues, that you see in the plugin!
 
 ## License
 
