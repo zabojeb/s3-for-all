@@ -1,0 +1,11 @@
+{
+	"id": "s3-for-all",
+	"name": "S3 For All",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Best way to fast upload your notes to the S3 storage!",
+	"author": "zabojeb",
+	"authorUrl": "https://zabojeb.github.io",
+	"fundingUrl": "https://t.me/zabojeb",
+	"isDesktopOnly": false
+}

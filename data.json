@@ -1,0 +1,8 @@
+{
+  "accessKeyId": "YCAJEW3RX8JDMuZh5bFU7RfL0",
+  "secretAccessKey": "YCNGo-8YFk4lL_53gOzrm5Ah9Lj58V5hYG0JPeyo",
+  "bucketName": "tech-journal",
+  "folderPath": "notes",
+  "region": "ru-central1",
+  "endpoint": "https://storage.yandexcloud.net"
+}
