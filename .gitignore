@@ -1,0 +1,21 @@
+# vscode
+.vscode 
+
+# intellij
+*.iml
+.idea
+
+# npm
+node_modules
+
+# this is for release, bro
+main.js
+
+# exclude sourcemaps
+*.map
+
+# obsidian
+data.json
+
+# exclude macOS Finder View States
+.DS_Store
